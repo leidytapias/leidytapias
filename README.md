@@ -1,9 +1,9 @@
-<h2> Hi, I'm leidy tapias! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Leidy Tapias! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em> Web Developer <a href="https://www.laboratoria.la/r">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Certified Tech Developer  <a href="https://www.digitalhouse.com/co">Digital House</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter:@LeidyTapias10 ](https://img.shields.io/twitter/follow/leidytapias10?style=social)](https://twitter.com/)
+[![Twitter:@LeidyTapias10 ](https://img.shields.io/twitter/follow/leidytapias10?style=social)](https://twitter.com/@LeidyTapias10)
 [![Linkedin: leidytapiasgiraldo](https://img.shields.io/badge/-leidytapiasgiraldo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leidy-yuliana-tapias-giraldo/)](https://www.linkedin.com/in/leidy-yuliana-tapias-giraldo/)
 [![GitHub leidytapias](https://img.shields.io/github/followers/leidytapias?label=follow&style=social)](https://github.com/leidytapias)
 
