@@ -14,7 +14,7 @@
 const leidy = {
   pronouns: "she" | "her",
   code: [Javascript, HTML5, CSS3],
-  tools: [Jest, MySQL],
+  tools: [Jest, MySQL, Node.js],
  
  challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
 }
