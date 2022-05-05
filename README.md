@@ -1,6 +1,6 @@
 <h2> Hi, I'm Leidy Tapias! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> Web Developer <a href=https://www.linkedin.com/school/laboratoria//r">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> Certified Tech Developer  <a href="https://www.digitalhouse.com/co">Digital House</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em> I'm studying Web Developer in <a href=https://www.linkedin.com/school/laboratoria//r" target="_blank">Laboratoria</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> I'm studying Certified Tech Developer in <a href="https://www.digitalhouse.com/co" target="_blank">Digital House</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter:@LeidyTapias10 ](https://img.shields.io/twitter/follow/leidytapias10?style=social)](https://twitter.com/@LeidyTapias10)
@@ -13,10 +13,10 @@
 ```javascript
 const leidy = {
   pronouns: "she" | "her",
-  code: [Javascript,HTML, CSS],
-  tools: [Jest,],
+  code: [Javascript, HTML5, CSS3],
+  tools: [Jest, MySQL],
  
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on React and Typescript"
 }
 ```
 
